@@ -8,9 +8,10 @@
 | Папка | Описание | Основные техники |
 |-------|----------|------------------|
 | [01_sql](/01_sql) | Поиск по ключевым словам |CONCAT, LPAD, INNER JOIN, USING, REGEXP, GROUP BY, HAVING, COUNT, ORDER BY|
+| [02_sql](/02_sql) | Подсчёт кол-ва по группам |CASE, COUNT, DISTINCT, GROUP BY, ORDER BY, подзапрос, агрегация, оконное условие|
 
 
 ## Контакты
 - Telegram: @xseeya
 - Email: anastasiaka0@gmail.com
-- LinkedIn: [www.linkedin.com/in/anastasia-kuznetsova-engineer]
+- LinkedIn: www.linkedin.com/in/anastasia-kuznetsova-engineer
