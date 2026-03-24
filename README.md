@@ -8,7 +8,7 @@
 |-------|----------|------------------|
 | [01_sql](/01_sql) | Поиск по ключевым словам |CONCAT, LPAD, INNER JOIN, USING, REGEXP, GROUP BY, HAVING, COUNT, ORDER BY|
 | [02_sql](/02_sql) | Подсчёт кол-ва по группам |CASE, COUNT, DISTINCT, GROUP BY, ORDER BY, подзапрос, агрегация, оконное условие|
-| [03_sql](/03_sql) | Подсчёт кол-ва по группам |SET, CTE (WITH), COUNT(DISTINCT), INNER JOIN, LEFT JOIN, GROUP BY, ORDER BY, CASE, ROUND, подзапрос, оконная переменная|
+| [03_sql](/03_sql) | Вычислить прогресс студентов по курсу |SET, CTE (WITH), COUNT(DISTINCT), INNER JOIN, LEFT JOIN, GROUP BY, ORDER BY, CASE, ROUND, подзапрос, оконная переменная|
 
 
 ## Контакты
